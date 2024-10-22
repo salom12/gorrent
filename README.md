@@ -5,7 +5,7 @@ This is a work-in-progress implementation of a Torrent client and Bencode parser
 
 ## Status
 - [x] bencode
-- [] torrent client
+- [ ] torrent client
 
 ## Installation
 
