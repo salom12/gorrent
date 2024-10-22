@@ -71,6 +71,10 @@ func main() {
 go test ./...
 ```
 
+## References
+- https://en.wikipedia.org/wiki/Bencode
+- https://www.bittorrent.org/beps/bep_0003.html
+
 ## License
 
 This project is licensed under the MIT License.
